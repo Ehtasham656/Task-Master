@@ -1,0 +1,13 @@
+.todo-heading {
+  color: white;
+  font-weight: 650;
+  font-size: 2rem;
+}
+.complete-status {
+  color: white;
+  font-size: 0.9rem;
+}
+
+.edit-todo {
+  color: white !important;
+}
